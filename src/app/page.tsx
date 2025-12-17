@@ -274,7 +274,7 @@ export default function Home() {
       <section id="testimoni" className="py-20 bg-gray-50">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <Badge className="mb-4">Testimoni</Badge>
+            <Badge className="mb-4">Shop DARA</Badge>
             <h2 className="text-4xl font-bold text-gray-900 mb-4">
               Apa Kata Pelanggan Kami
             </h2>

@@ -52,7 +52,7 @@ const Navbar = () => {
     { id: 'beranda', label: 'Beranda', icon: null },
     { id: 'produk', label: 'Produk', icon: null },
     { id: 'tentang', label: 'Tentang Kami', icon: null },
-    { id: 'testimoni', label: 'Testimoni', icon: null },
+    { id: 'testimoni', label: 'Shop Dara', icon: null },    
   ];
 
   return (
